@@ -3,22 +3,31 @@
 const produits = [
   {
     id: 1,
-    nom: "PC Gamer HP Omen",
+    nom: "PC DELL ",
     prix: 450000, // prix en FCFA par exemple
-    categorie: "Gamer",
+    categorie: "Pc Portable",
     images: [
-      "images/pc1.jpg",
-      "images/pc2.jpg",
-      "images/pc3.jpg"
+      "images/d1.jpg",
+      "images/d2.jpg",
+      "images/d3.jpg"
     ],
-    description: "PC puissant pour le gaming et le montage vidéo.",
+    description: "Dell 3510",
     specs: {
-      processeur: "Intel Core i7-10700F",
-      ram: "16 Go DDR4",
-      stockage: "512 Go SSD NVMe",
-      carteGraphique: "RTX 3060 6 Go",
-      ecran: "15.6 pouces Full HD 144Hz",
-      systeme: "Windows 11"
+     *Intel ®️ Core™️ i5 ¦
+♦️Processeur: 2,0 GHz; 4 Cœurs et 8 Processeurs logique de 
+♦️ 10eme génération;
+♦️ Ram 16
+♦️ Disque Dure SSD 512g
+♦️ Écran 15" ful HD_
+♦️ bluetooth intégré
+♦️ Clavier lumineux azerty
+♦️port USB
+♦️ port BJ45
+♦️ Port typc C
+♦️ État 10/10
+♦️ Chargeur Original
+___200000f________
+🔋 Autonomie 4h
     }
   },
   {
@@ -27,19 +36,24 @@ const produits = [
     prix: 280000,
     categorie: "Bureautique",
     images: [
-      "images/pc4.jpg",
-      "images/pc5.jpg",
-      "images/pc6.jpg",
-      "images/pc7.jpg"
+      "images/ta.jpg",
+      "images/ta1.jpg",
+      "images/ta2.jpg",
+      "images/ta3.jpg"
     ],
     description: "PC portable professionnel, très bon état.",
     specs: {
-      processeur: "Intel Core i5-10210U",
-      ram: "8 Go DDR4",
-      stockage: "256 Go SSD",
-      carteGraphique: "Intel UHD Graphics",
-      ecran: "14 pouces Full HD",
-      systeme: "Windows 10 Pro"
+     ✅HP EliteBook 1030 G2 
+✅Core i5 tactile
+✅08 Gb RAM 
+✅256 Gb SSD 
+✅Écran 13.5 pouces tactile et Pliable 360°
+✅Bluetooth (port HDMI) 
+✅Clavier AZERTY rétro éclairé 
+✅Windows 11pro et pack office installés 
+✅Autonomie très bonne 
+✅Ports USB, VGA, wifi, HDMI, SD...
+✅️230.000f
     }
   },
   {
@@ -48,19 +62,31 @@ const produits = [
     prix: 280000,
     categorie: "Bureautique",
     images: [
-      "images/pc4.jpg",
-      "images/pc5.jpg",
-      "images/pc6.jpg",
-      "images/pc7.jpg"
+      "images/hppi.jpeg",
+      "images/hp2.jpeg",
+      "images/hp3.jpeg",
+      "images/hp4.jpeg"
     ],
     description: "PC portable professionnel, très bon état.",
     specs: {
-      processeur: "Intel Core i5-10210U",
-      ram: "8 Go DDR4",
-      stockage: "256 Go SSD",
-      carteGraphique: "Intel UHD Graphics",
-      ecran: "14 pouces Full HD",
-      systeme: "Windows 10 Pro"
+HP ELITEBOOK 840 G3
+*Intel ®️ Core™️ i5 ¦
+♦️Processeur: 2,50 GHz; 4 Cœurs et 8 Processeurs logique de 
+♦️ 6eme génération;
+♦️ Ram 8Go DDR4
+♦️ Disque  HDD 500g
+♦️ Écran 14" ful HD_
+♦️ empreinte intégré
+♦️ bluetooth intégré
+♦️ Clavier lumineux azerty
+♦️port USB
+♦️ port BJ45
+♦️ Port typc C
+♦️ Couleur Grise
+♦️ État 10/10
+♦️ Chargeur Original
+___130000f_____14 pièce disponible___
+🔋 Autonomie 4h+
     }
   },
   {
